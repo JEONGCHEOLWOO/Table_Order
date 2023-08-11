@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+// import mongoose from 'mongoose';
 const express = require('express'); // express 임포트
 const {format} = require('util');
 const morgan = require('morgan');
